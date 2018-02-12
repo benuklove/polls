@@ -1,6 +1,7 @@
 li a {
     color: #092D1F;
     font-size: 1.25em;
+    line-height: 2;
 }
 
 .poll-list {
